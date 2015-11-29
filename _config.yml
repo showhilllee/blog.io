@@ -1,27 +1,27 @@
 # Site settings
-title: 读立写生
+title: 蜗牛的博客
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "蜗牛|为梦想而生"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " showhilllee"
+  email: lxh_302@163.com
+  bio: "本是后山人,偶做前堂客。醉舞经阁半卷书，坐井说天阔大志戏功名，海斗量福祸。论到囊中羞涩时，怒指乾坤错。"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: https://avatars3.githubusercontent.com/u/3157124?v=3&s=460
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+douban_username:  
+twitter_username: showhilllee
+github_username: showhilllee
+facebook_username: showhilllee
+weibo_username: showhilllee 
+zhihu_username: showhilllee
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -34,7 +34,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 relative_permalinks: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/BeiJing
 
 # Defaults for posts
 defaults:
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "showhilllee"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : showhilllee
   disqus :
-      short_name : cnfeat
+      short_name : showhilllee
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
