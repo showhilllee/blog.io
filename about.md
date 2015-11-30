@@ -1,10 +1,12 @@
 
+<table><tr><td bgcolor=#538B5F>
 ---
 layout: page
 title: "About"
 description: "记录点滴学习"
-header-img: ""
+
 ---
+ </td></tr></table>
 
 
 <center>
