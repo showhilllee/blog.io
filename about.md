@@ -1,14 +1,17 @@
+<table><tr><td bgcolor=#538B5F>
 ---
 layout: page
 title: "About"
 description: "记录点滴学习"
-header-img: "img/green.jpg"
+
 ---
+ </td></tr></table>
 
 
 <center>
     <p><img src="http://avatar.csdn.net/8/B/D/1_showhilllee.jpg" align="center"></p>
 </center>
+
 
 描述。
 
