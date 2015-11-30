@@ -11,7 +11,7 @@ description: github上开博后的第一篇博文。
 ##伊始
 苟活于IT届几载，早在之前就想自己搭建一个博客进行写作，但是由于这样那样的原因最终还是竹篮打水。后来索性开始使用[csdn博客](http://blog.csdn.net/showhilllee)进行写作，断断续续坚持了三年左右。方便归方便，但是少了一种自由和经历。所以现在转战git进行尝试。博客所用的样式等素材均fork自[cnfeat的github](https://github.com/cnfeat/blog.io)。感谢原作者的贡献。
 
-本文定题为《写在开始的话》，从[cnfeat的github](https://github.com/cnfeat/blog.io)fork过来的时候里面带了两篇文章，本想删掉从开始写，但是细读起坐着文章，那种写不是义务，写本身就是写的报酬的观点感染了我，所以，选择保留了那两篇文章，可以不时的激励自己。
+本文定题为《写在开始的话》，从[cnfeat的github](https://github.com/cnfeat/blog.io) fork过来的时候里面带了两篇文章，本想删掉从开始写，但是细读起坐着文章，那种写不是义务，写本身就是写的报酬的观点感染了我，所以，选择保留了那两篇文章，可以不时的激励自己。
 
 ##坚持
 
