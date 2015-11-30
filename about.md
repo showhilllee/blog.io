@@ -8,7 +8,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://avatar.csdn.net/8/B/D/1_showhilllee.jpg" align="center"></p>
+    <p><img src="img/cnfeat.jpg" align="center"></p>
 </center>
 
 
