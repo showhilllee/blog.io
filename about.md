@@ -3,7 +3,7 @@
 layout: page
 title: "About"
 description: "记录点滴学习"
-header-img: "width:100%;height:300px;background:green;"
+header-img: ""
 ---
 
 
