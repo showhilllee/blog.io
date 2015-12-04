@@ -7,7 +7,7 @@ tags: [写作,博客,千字计划]
 description: 坚持每日千字。
 
 ---
-开始时间来2015-12-3 21：10
+开始时间2015-12-3 21：10
 ## 前言
 ***
 本文是《我是个算命先生》系列的第二篇。在第一篇中简单讲述了什么是江相派，以及江相派的《英耀》口诀。其实这个口诀就是我们现在街边常见的算命先生所使用“技法”的缩影。如果你看了第一篇以后，应该对这此有了一些认识，至少能够帮助你在以后生活中如果真的遇到的做局，行骗的可以多加提防。
@@ -63,11 +63,11 @@ description: 坚持每日千字。
 
 
 
-链接
+## 链接
 
 [算命先生（一）](http://showhilllee.github.io/blog/2015/12/03/the-fortune-teller/)
 
 [算命先生（二）](http://showhilllee.github.io/blog/2015/12/03/the-fortune-teller2/)
 
-
+[算命先生（三）](http://showhilllee.github.io/blog/2015/12/04/the-fortune-teller3/)
 
