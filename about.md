@@ -27,7 +27,7 @@ header-img: "img/green.jpg"
 
 - 移动图书馆系列
   
-  * 移动图书馆[AppStore地址](https://itunes.apple.com/cn/app/yi-dong-tu-shu-guan-ke-hu-duan/id499197441?mt=8)
+  * 移动图书馆【[AppStore地址](https://itunes.apple.com/cn/app/yi-dong-tu-shu-guan-ke-hu-duan/id499197441?mt=8)】
   
   * 包头图书馆
   
@@ -65,7 +65,7 @@ header-img: "img/green.jpg"
   
   以上均为网络电话App，但实现框架不同。企业分机为Agora第三方网络电话库+APNS推送实现。逗比电话为sip协议实现网络通话+即时通讯使用MQTT+APNS推送实现。移动红机是一部为特殊政府部门定制的网络电话，由于特殊保密协议，这里不做详细技术讲解。
   
-- 去哪打羽毛球[Appstore地址](https://itunes.apple.com/cn/app/qu-na-da-yu-mao-qiu/id931504602?mt=8)
+- 去哪打羽毛球【[Appstore地址](https://itunes.apple.com/cn/app/qu-na-da-yu-mao-qiu/id931504602?mt=8)】
 	* 根据用户位置，发布、查看及报名羽毛球活动的O2O App。
 
 - 物业通（AdHoc）
@@ -77,7 +77,7 @@ header-img: "img/green.jpg"
   
   * 现在做hybrid开发。主要工作是做hybrid native引擎开发，兼顾打包时的业务逻辑合并处理，工程配置动态修改以及自动打包工作，偶尔写几个插件。native引擎的开发主要使用OC，C，C++实现。打包逻辑使用OC实现（通过load动态库方式拆分成了若干个小逻辑）以及shell，python实现。
  
-  * 详细信息可以登陆[官网](http://www.369cloud.com/devservce/index.html)进行查看。
+  * 详细信息可以登陆【[官网](http://www.369cloud.com/devservce/index.html)】进行查看。
   
 ### 语言篇
 
@@ -94,22 +94,22 @@ header-img: "img/green.jpg"
 ### 博文代表篇
 
 * 一步一步教你做ios推送
-    * [csnd博客地址](http://blog.csdn.net/showhilllee/article/details/8631734) 
-    * [cocoaChina地址](http://www.cocoachina.com/ios/20130321/5862.html)曾入选当时cocoaChina周精华
+    * 【[csnd博客地址](http://blog.csdn.net/showhilllee/article/details/8631734)】
+    * 【[cocoaChina地址](http://www.cocoachina.com/ios/20130321/5862.html)】曾入选当时cocoaChina周精华
 
 * iOS提交后申请加急审核
-	* [csnd博客地址](http://blog.csdn.net/showhilllee/article/details/19541493) 
+	* 【[csnd博客地址](http://blog.csdn.net/showhilllee/article/details/19541493)】
 
 ## 联系方式
 ***
 
-- [csdn博客](http://weibo.com/2278162933)
+- 【[csdn博客](http://weibo.com/2278162933)】
 
-- [微博@showhilllee](http://weibo.com/2278162933)
+- 【[微博@showhilllee](http://weibo.com/2278162933)】
 
-- [github](https://github.com/showhilllee)
+- 【[github](https://github.com/showhilllee)】
 
-- [邮箱：lxh_302@163.com](mailto:lxh_302@163.com;) 
+- 【[邮箱：lxh_302@163.com](mailto:lxh_302@163.com;) 】
 
 
 
