@@ -77,6 +77,8 @@ header-img: "img/green.jpg"
   
   * 现在做hybrid开发。主要工作是做hybrid native引擎开发，兼顾打包时的业务逻辑合并处理，工程配置动态修改以及自动打包工作，偶尔写几个插件。native引擎的开发主要使用OC，C，C++实现。打包逻辑使用OC实现（通过load动态库方式拆分成了若干个小逻辑）以及shell，python实现。
  
+  * 引擎简介：369Cloud iOS引擎通过对系统的WebKit浏览器的封装和扩展，实现了HTML+CSS+JavaScript开发语言与Objective-C/C/C++等Native开发语言之间的桥接，极大的增强了标准的JavaScript的能力。前端开发者可以通过JS即可调用移动设备的底层功能。
+ 
   * 详细信息可以登陆【[官网](http://www.369cloud.com/devservce/index.html)】进行查看。
   
 ### 语言篇
