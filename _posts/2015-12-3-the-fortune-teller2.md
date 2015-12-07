@@ -74,3 +74,5 @@ description: 坚持每日千字。
 [算命先生（四）](http://showhilllee.github.io/blog/2015/12/05/the-fortune-teller4/)
 
 [算命先生（五）](http://showhilllee.github.io/blog/2015/12/06/the-fortune-teller5/)
+
+[算命先生（六）](http://showhilllee.github.io/blog/2015/12/07/the-fortune-teller6/)
